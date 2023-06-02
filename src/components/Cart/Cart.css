@@ -1,0 +1,22 @@
+img{
+    height:200px;
+    width:200px;
+    margin-top: 20px;
+}
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 240px;
+    justify-content: center;align-self: center;
+}
+.title{
+    font-size: 10px;
+    text-align: center;
+}
+.price{
+    text-align: center;
+    font-size: 10px;
+}
+.btn{
+    margin-left: 10px; 
+}

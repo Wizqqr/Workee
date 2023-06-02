@@ -1,0 +1,48 @@
+.Header {
+    padding: 25px 0;
+    text-align: center;
+    background: #d7f2ff;
+    width:100%;
+    top:0;
+    left:0;
+
+  }
+  .header_nav{
+    text-decoration: none;
+display: flex;
+    height:47px;
+    width:100%;
+    list-style-type: none;margin:0;padding:0;
+    column-gap: 50px;
+  }
+
+  li{
+text-align: center;float:left;margin-top: 5px;font-size: 25px;
+  }
+  .work{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 90px;
+  }
+  .work2{
+    color:#bbe2f6
+  }
+  .work_search{
+   padding-top: 20px;
+   margin-top: -20px;
+   white-space: normal;
+margin-left: 300px;
+    background-color: white;width:300px;height:60px;background-position: 1%;border-radius: 10px;border-style: solid;border-color: rgb(194, 194, 194);color:grey;
+  }
+  .work_search_btn{
+    padding-top: 20px;
+
+    margin-top: -20px;
+    width:200px;
+    height:60px;
+    border-style: solid;
+    border-color: blue;
+    color:blue;
+    border-radius: 10px;
+    margin-left: 100px;
+  }
